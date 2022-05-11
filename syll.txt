@@ -1,0 +1,52 @@
+Unit I
+REVIEW OF RELATIONAL DATA MODEL AND
+RELATIONAL DATABASE CONSTRAINTS
+(06 hrs)
+Relational model concepts, Relational model constraints and relational database schemas, Update
+operations, anomalies, dealing with constraint violations, Types and violations. Overview of ObjectOriented Concepts – Objects, Basic properties. Advantages, examples, Abstract data types,
+Encapsulation, class hierarchies, polymorphism examples.
+
+UnitII PARALLEL AND DISTRIBUTED DATABASES (06 hrs)
+Introduction to Parallel Databases, Architectures for parallel databases, Parallel query evaluation
+Parallelizing individual operations, Parallel query optimizations. Introduction to distributed databases,
+Distributed DBMS architectures, storing data in a Distributed DBMS, Distributed catalog management,
+Distributed Query processing, Updating distributed data, Distributed transactions,
+Distributed Concurrency control and Recovery
+
+UnitIII NOSQL DATABASES (06 hrs)
+Introduction, Overview, and History of NoSQL Databases- The definition of Four Types of No SQL
+Databases. NoSQL Key/Value Database: MongoDB, Column-Oriented Database: Apache Cassandra,
+Comparison of Relational and NoSQL databases, NoSQL database Development Tools (Map
+Reduce/Hive) and Programming Languages (XML/JSON)
+
+
+UnitIV DATA WAREHOUSING (06 hrs )
+Architectures and components of data warehouse, Characteristics and limitations of data warehouse, Data
+warehouse schema (Star, Snowflake), OLAP Architecture (ROLAP/MOLAP/HOLAP), Introduction to decision
+support system, Views and Decision support
+
+Unit V DATA MINING (06 hrs)
+Introduction to Data Mining, KDD seven step process, Architecture of data mining, Introduction to
+predictive and descriptive algorithms, Data mining software and applications
+
+Unit VI
+ENHANCED DATA MODELS FOR ADVANCED
+APPLICATIONS
+(06 hrs)
+Active database concepts and triggers; Temporal, Spatial, and Deductive Databases – Basic concepts.
+More Recent Applications: Mobile databases; Multimedia databases; Geographical Information Systems;
+Genome data management.
+
+
+Unit V DATA MINING (06 hrs)
+Introduction to Data Mining, KDD seven step process, Architecture of data mining, Introduction to
+predictive and descriptive algorithms, Data mining software and application
+
+
+
+Unit VI
+ENHANCED DATA MODELS FOR ADVANCED
+APPLICATIONS(06 hrs)
+Active database concepts and triggers; Temporal, Spatial, and Deductive Databases – Basic concepts.
+More Recent Applications: Mobile databases; Multimedia databases; Geographical Information Systems;
+Genome data management.
